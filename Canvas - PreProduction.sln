@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canvas - PreProduction", "Canvas - PreProduction.csproj", "{DA5FE4DF-6407-5D3B-0CC1-798AA8D03171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canvas - PreProduction.Editor", "Canvas - PreProduction.Editor.csproj", "{A878821D-3FA2-2DAB-1693-609478028EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5FE4DF-6407-5D3B-0CC1-798AA8D03171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5FE4DF-6407-5D3B-0CC1-798AA8D03171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5FE4DF-6407-5D3B-0CC1-798AA8D03171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5FE4DF-6407-5D3B-0CC1-798AA8D03171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A878821D-3FA2-2DAB-1693-609478028EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A878821D-3FA2-2DAB-1693-609478028EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A878821D-3FA2-2DAB-1693-609478028EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A878821D-3FA2-2DAB-1693-609478028EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
