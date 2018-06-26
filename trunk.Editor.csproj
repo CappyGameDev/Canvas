@@ -605,6 +605,17 @@
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\VertexAnimation.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\VertexColorRounding.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Readme.txt" />
+    <None Include="Assets\Animations\blah.txt" />
+    <None Include="Assets\Audio\blah.txt" />
+    <None Include="Assets\Materials\blah.txt" />
+    <None Include="Assets\Meshes\blah.txt" />
+    <None Include="Assets\Particles\blah.txt" />
+    <None Include="Assets\Physics\blah.txt" />
+    <None Include="Assets\Prefabs\blah.txt" />
+    <None Include="Assets\Scripts\blah.txt" />
+    <None Include="Assets\Shaders\blah.txt" />
+    <None Include="Assets\Textures\blah.txt" />
+    <None Include="Assets\UI\blah.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
